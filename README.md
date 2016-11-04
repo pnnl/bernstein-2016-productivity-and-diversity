@@ -1,7 +1,6 @@
 ### Trade-offs between microbiome diversity and productivity in a stratified microbial mat
 
-Manuscript in press at ISME. Methods along with select data, results, and graphs will be posted here after publication.
+Manuscript is in press at ISME. Additional content, including the paper itself, will be posted here as soon as allowable.
 
-MiSeq data is available as [study 10481 on Qiita](https://qiita.ucsd.edu/study/description/10481) and on EBI-ENA with the accession number [ERP016653](https://www.ebi.ac.uk/ena/data/view/PRJEB14970).
-
-The informatics point-of-contact for this project is [Colin Brislawn](https://www.github.com/colinbrislawn)
+The informatics point-of-contact for this project is [Colin Brislawn](https://www.github.com/colinbrislawn).
+If you have any questions or feedback, please feel free to get in touch by email or open an issue!
