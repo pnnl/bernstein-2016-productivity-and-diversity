@@ -1,6 +1,6 @@
 # Analysis
 
-Semi-automated scripts for processing this data set
+Semi-automated scripts for processing this data set.
 
 ### Data processing scripts
 
@@ -18,5 +18,6 @@ data sets, and results used to explore the feature abundance table.
 
 The folder `phyloseq` contains R scripts and their output graphs, made largely
 with the [Phyloseq](https://github.com/joey711/phyloseq)
-[package](https://joey711.github.io/phyloseq/).
+[package](https://joey711.github.io/phyloseq/). Note that each script saves the
+figures it makes into a folder of the same name (`alpha.R` saves into `alpha/`).
 
