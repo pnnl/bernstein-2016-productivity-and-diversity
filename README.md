@@ -8,4 +8,5 @@ Manuscript published at ISME as an AOP (Advanced Online Publication):
  - doi: 10.1038/ismej.2016.133
 
 The informatics point-of-contact for this project is [Colin Brislawn](https://www.github.com/colinbrislawn).
-If you have any questions or feedback, please feel free to get in touch by email or open an issue!
+If you have any questions or feedback, please feel free to get in touch by email.
+Or [open an issue](https://github.com/pnnl/bernstein-2016-productivity-and-diversity/issues)!
