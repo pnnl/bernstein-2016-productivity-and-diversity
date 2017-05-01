@@ -7,6 +7,8 @@ Manuscript published at ISME as an AOP (Advanced Online Publication):
  - [Full Text PDF](http://www.nature.com/ismej/journal/vaop/ncurrent/pdf/ismej2016133a.pdf) (Paywall)
  - doi: 10.1038/ismej.2016.133
 
+Genetic sequencing data is available as [Qiita study 10481](https://qiita.ucsd.edu/study/description/10481) and as [ENA study PRJEB14970](https://www.ebi.ac.uk/ena/data/view/PRJEB14970)
+
 The informatics point-of-contact for this project is [Colin Brislawn](https://www.github.com/colinbrislawn).
 If you have any questions or feedback, please feel free to get in touch by email.
 Or [open an issue](https://github.com/pnnl/bernstein-2016-productivity-and-diversity/issues)!
